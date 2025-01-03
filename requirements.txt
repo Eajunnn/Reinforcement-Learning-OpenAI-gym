@@ -1,0 +1,10 @@
+tensorflow==2.11.0  # Ensure compatibility with the model-building process
+numpy==1.23.5       # For numerical computations
+gym==0.26.2         # OpenAI Gym for RL environments
+opencv-python==4.8.0.74  # For image processing (cv2)
+scipy==1.10.1       # For statistical computations
+tqdm==4.65.0        # For progress bars
+matplotlib==3.7.1   # For plotting rewards and results
+gymnasium==0.28.1
+torch==2.1.0  # Update if you're using a specific version, adjust for your CUDA version if needed
+h5py==3.8.0
