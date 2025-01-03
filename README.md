@@ -25,10 +25,10 @@ Follow these steps to set up the project locally:
 
 ```bash  
 # Clone the repository  
-git clone https://github.com/yourusername/adaptive-rl-noise-strategies.git  
+git clone https://github.com/Eajunnn/Reinforcement-Learning-OpenAI-gym.git 
 
 # Navigate to the project directory  
-cd adaptive-rl-noise-strategies  
+cd Reinforcement-Learning-OpenAI-gym  
 
 # Install required dependencies  
 pip install -r requirements.txt  
