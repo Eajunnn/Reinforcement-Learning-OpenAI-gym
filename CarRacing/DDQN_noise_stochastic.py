@@ -1,7 +1,3 @@
-# DDQN version 1 to improve on the performance of DQN2.py
-# Best performance so far:
-#   --> model/oah33/DDQN2/20220423-170444/episode_500.h5
-#   --> NN input is greyscale 96x96x1
 
 # Environment imports
 import random
